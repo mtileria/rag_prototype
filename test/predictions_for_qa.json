@@ -1,0 +1,22 @@
+[
+    {
+        "query": "Where is Brighton?",
+        "answer": "Brighton is a seaside resort on the south coast of England in East Sussex.",
+        "result": "Brighton is located on the south coast of England, in the county of East Sussex."
+    },
+    {
+        "query": "Describe the Royal Pavilion's architecture.",
+        "answer": "The Royal Pavilion has Indo-Saracenic architecture and an Oriental interior.",
+        "result": "The Royal Pavilion's architecture is unique Indo-Saracenic style with Oriental interior design."
+    },
+    {
+        "query": "What material is Brighton beach made of?",
+        "answer": "Brighton beach is mainly made of pebbles.",
+        "result": "Pebbles"
+    },
+    {
+        "query": "What is the population of Brighton?",
+        "answer": "The provided context does not state the population of Brighton.",
+        "result": "Brighton is known for its large LGBT population."
+    }
+]
